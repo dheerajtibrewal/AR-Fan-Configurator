@@ -110,6 +110,5 @@ The AI analyzes your actual living space — reading dominant tones, lighting co
 
 ---
 
-## 📝 Footer
 
 Built as a creative technology POC exploring AI-powered 3D commerce and augmented reality retail experiences.
