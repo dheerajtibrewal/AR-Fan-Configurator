@@ -90,14 +90,13 @@ The AI analyzes your actual living space — reading dominant tones, lighting co
 
 <table>
   <tr>
-    <td align="center"><img src="" width="200"/><br/><em>Landing Page</em></td>
-    <td align="center"><img src="" width="200"/><br/><em>3D Configurator</em></td>
-    <td align="center"><img src="" width="200"/><br/><em>Room Photo Upload</em></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/28965aa7-f750-4581-8919-167cfc739709" width="500"/><br/><em>3D Configurato</em></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/8208053f-185e-48b0-9db5-10ab53e760b3" width="500"/><br/><em>House Interior Image</em></td>
   </tr>
   <tr>
-    <td align="center"><img src="" width="200"/><br/><em>AI Recommendations</em></td>
-    <td align="center"><img src="" width="200"/><br/><em>AR Placement</em></td>
-    <td></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f899908e-2be7-4f0f-8c52-90852c9aeeab" width="500"/><br/><em>AI Analyzing image</em></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/68d81c6b-4e7d-4d06-a4a8-a1945c7da50e" width="500"/><br/><em>AI Recommendations</em></td>
+
   </tr>
 </table>
 
