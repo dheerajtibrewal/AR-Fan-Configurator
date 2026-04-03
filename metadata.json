@@ -1,0 +1,7 @@
+{
+  "name": "Fan Configurator",
+  "description": "A premium, AI-assisted 3D configurator for selecting and visualizing ceiling fans in your space.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
