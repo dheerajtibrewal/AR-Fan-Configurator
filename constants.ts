@@ -6,8 +6,8 @@ import { FanFinish, FanModelMaterialConfig } from './types';
 // Replace these URLs with the link to your actual fan model files.
 // .glb is for the Web/Android 3D viewer.
 // .usdz is required specifically for iPhone AR (Quick Look).
-export const FAN_MODEL_URL = './components/fan.glb'; 
-export const FAN_MODEL_IOS_URL = './components/Fan.usdz';
+export const FAN_MODEL_URL = '/fan.glb';
+export const FAN_MODEL_IOS_URL = '/Fan.usdz';
 
 // ==========================================
 // 2. MATERIAL MAPPING (CRITICAL)
